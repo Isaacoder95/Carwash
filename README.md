@@ -1,3 +1,3 @@
 # Carwash
 InntechMx Jul. 2020
-Carwash App.
+Carwash App (Cordova Project).
